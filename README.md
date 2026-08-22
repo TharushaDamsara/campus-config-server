@@ -26,4 +26,3 @@ mvn spring-boot:run
 
 Runs on port `8888` by default. Requires the [campus-eureka-server](https://github.com/TharushaDamsara/campus-eureka-server)
 to be running for service registration.
-# campus-config-server
